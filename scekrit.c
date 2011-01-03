@@ -3,7 +3,7 @@
 // -------------------------------------------------------------
 // Compile by copying to fail0verflow's ps3tools and add
 // SCEkrit.c to TOOLS in the Makefile.
-// Run with two files (sels, pkgs) signed by the same key.
+// Run with two files (selfs, pkgs) signed by the same key.
 // Depends on libgmp; add -lgmp to LDFLAGS
 // - Aaron Lindsay / @AerialX
 // And thanks gbcft!
